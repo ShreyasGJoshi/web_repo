@@ -1,3 +1,4 @@
 # web_repo
 practice files
-hiii
+simple project to show the working of git and github
+
